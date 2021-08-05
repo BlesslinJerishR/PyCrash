@@ -1,0 +1,10 @@
+Python >>
+Variables
+Data types
+Lists
+Dictionaries
+Tuples
+Inputs
+Functions
+Classes
+Files

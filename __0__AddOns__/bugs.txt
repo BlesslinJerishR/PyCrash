@@ -1,0 +1,54 @@
+[x]strip.py
+>>char length
+
+[x]friends.py
+>>Friends Title for loop
+
+
+[x]world.py - G
+>>list none ?
+
+[]magicians.py
+>>i++ in python ? - G D
+
+[x]players.py
+>>list to names with comma , using end =" "
+
+[x]slices.py
+>>removing duplicates in python
+
+[]boolean.py > 12
+>>saving for loop's variable in a def function with parameter
+
+[]boolean.py > end
+>>initiating multiple for loops inside a same def
+
+[x]admin.py
+>>def for saving names in titles using for loop
+
+[x]admin.py
+>>why there is a none statement printed ?
+
+[x]admin.py
+>>How to iterate that function using a variable
+
+[x]admin.py
+>>Make a list permanent titles using def function
+
+[x]glossary.py
+>>new line \n inside a dictionary > use for loop
+
+[]rivers.py
+>>Accessing folder in python using the dot notation ..app.folder (one step back in directory)
+
+[x]rivers.py
+>>sys.path append to fundef
+
+[x]rivers.py
+>>merge fundef
+
+[]rivers.py
+>>write def to append sys
+
+[]defs.py
+>>copy a values of a list to permanent variable
